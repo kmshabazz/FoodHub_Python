@@ -1,5 +1,7 @@
 # FoodHub_Python
 Perform an exploratory data analysis and provide actionable insights for a food aggregator company to get a fair idea about the demand of different restaurants and cuisines, which will help them enhance their customer experience and improve the business.
+# Skills & Tools Covered:
+python, Numpy, Pandas, Seaborn, Univariate Analysis, Bivariate Analysis, Exploratory Data Analysis, Business recommendations
 # Background
 FoodHub, based on New York, offers access to multiple restaurants through a single smartphone app. The company facilitates online food orders from customers and assigns delivery personnel to ensure timely delivery. The revenue model is based on a fixed margin collected from each delivery order placed through the app.
 # Business Problem
